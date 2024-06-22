@@ -35,11 +35,11 @@ O projeto é composto pelos seguintes arquivos:
 
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-compra-porsche.git
+   git clone https://github.com/eng-joaoelias/projeto-porsche.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd projeto-compra-porsche
+   cd projeto-porsche
    ```
 3. Abra o arquivo `index.html` no seu navegador preferido.
 
