@@ -1,6 +1,3 @@
-Aqui está um exemplo de README.md para o seu projeto:
-
-```markdown
 # Projeto de Compra de Porsche
 
 Este projeto é uma página web interativa que permite aos usuários selecionar diferentes cores e rodas para um modelo de Porsche 911 Turbo S (2024). A página foi desenvolvida utilizando HTML, CSS e JavaScript. 
