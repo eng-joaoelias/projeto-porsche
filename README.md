@@ -67,4 +67,4 @@ Este projeto tem várias aplicações práticas:
 
 ---
 
-Este projeto é uma excelente demonstração de como criar uma interface de usuário interativa e responsiva utilizando tecnologias web básicas. Esperamos que este README forneça uma visão clara do projeto e de como ele pode ser utilizado e expandido no futuro.
+Este projeto é uma excelente demonstração de como criar uma interface de usuário interativa e responsiva utilizando tecnologias web básicas.
