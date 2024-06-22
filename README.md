@@ -65,6 +65,15 @@ Este projeto tem várias aplicações práticas:
 2. **Showrooms Virtuais:** Concessionárias de automóveis podem usar uma versão deste projeto para criar showrooms virtuais, onde os clientes podem explorar diferentes modelos e customizações.
 3. **Aplicações Educacionais:** O projeto pode servir como um exemplo educacional para ensinar conceitos de HTML, CSS e JavaScript, bem como práticas de design responsivo e manipulação da DOM.
 
+## Capturas de Tela
+
+### Layout Móvel
+![Layout Móvel](./images/mobile.jpg)
+
+### Layout Desktop
+![Layout Desktop](./images/desktop.jpg)
+
+
 ---
 
 Este projeto é uma excelente demonstração de como criar uma interface de usuário interativa e responsiva utilizando tecnologias web básicas.
