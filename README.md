@@ -68,10 +68,14 @@ Este projeto tem várias aplicações práticas:
 ## Capturas de Tela
 
 ### Layout Móvel
-![Layout Móvel](./images/mobile.jpg)
+<p align="center">
+  <img src="./images/mobile.jpg" alt="Layout Móvel">
+</p>
 
 ### Layout Desktop
-![Layout Desktop](./images/desktop.jpg)
+<p align="center">
+  <img src="./images/desktop.jpg" alt="Layout Desktop">
+</p>
 
 
 ---
